@@ -1,5 +1,5 @@
 ---
-name: Guestbook
+name: Guestbook Entry
 about: Default entry file
 title: New Entry
 labels: Guestbook Entry
@@ -10,7 +10,7 @@ assignees: sarthak-1998
 ---
 name: "Guestbook Entry"
 about: "Write something nice into my Guestbook."
-title: ''
+title: 'Your Name'
 ---
 
 

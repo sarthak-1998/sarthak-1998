@@ -1,9 +1,9 @@
 ---
 name: Guestbook
 about: Default entry file
-title: ''
-labels: ''
-assignees: ''
+title: 'New Entry'
+labels: 'Guestbook Entry'
+assignees: 'sarthak-1998'
 
 ---
 

@@ -111,7 +111,7 @@ Hi 👋 I am Sarthak Jain, a Computer Science Engineering undergraduate (2016-20
 
 
                                                 
-                                                   📫 How to reach me: [Portal](https://sarthakj.me)
+📫 How to reach me: [Portal](https://sarthakj.me)
 
 <p align = "center">
   
@@ -140,7 +140,7 @@ Hi 👋 I am Sarthak Jain, a Computer Science Engineering undergraduate (2016-20
 
 <div align="center">
 
-<img height="120" alt="Thanks for visiting me" width="100%" src= "assets/Thanks.svg" />
+<img height="120" alt="Thanks for visiting me" width="100%" src= "https://github.com/sarthak-1998/sarthak-1998/blob/master/Assets/Thanks.svg" />
 <br />
 
 

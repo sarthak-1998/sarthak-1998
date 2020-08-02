@@ -7,13 +7,6 @@ assignees: sarthak-1998
 
 ---
 
----
-name: "Guestbook Entry"
-about: "Write something nice into my Guestbook."
-title: 'Your Name'
----
-
-
 
 <!-- Let me know you've found me -->
 **I have found your README through:**

@@ -1,6 +1,6 @@
 ---
 name: Guestbook Entry
-about: Default entry file
+about: Write something nice into my Guestbook.
 title: New Entry
 labels: Guestbook Entry
 assignees: sarthak-1998

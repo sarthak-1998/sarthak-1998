@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 </td>
 <td align="center">
-<a href="https://github.com/sarthak-1998/sarthak-1998/issues/new?template=guestbook.md">
+<a href="https://github.com/sarthak-1998/sarthak-1998/issues/new?assignees=sarthak-1998&labels=Guestbook+Entry&template=guestbook-entry.md&title=New+Entry+by+Name">
 <strong>Sign my guest book</strong>
 <br />
 

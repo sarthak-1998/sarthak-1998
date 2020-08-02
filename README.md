@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<img alt="Globe" height="80" src="assets/globe.gif?raw=true">
+<img alt="Globe" height="80" src="https://github.com/sarthak-1998/sarthak-1998/blob/master/Assets/globe.gif?raw=true">
 </a>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
-<img height="100" alt="Book" src="assets/book.gif"> 
+<img height="100" alt="Book" src="https://github.com/sarthak-1998/sarthak-1998/blob/master/Assets/book.gif?raw=true"> 
 </a>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 
 <p align="center"> 
 
-[![Sarthak's github stats](https://github-readme-stats.vercel.app/api?username=sarthak-1998&show_icons=true)](https://github.com/sarthak-1998/github-readme-stats)
+[![Sarthak's github stats](https://github-readme-stats.vercel.app/api?username=sarthak-1998&show_icons=true)](https://github.com/sarthak-1998)
 
 </p>
 

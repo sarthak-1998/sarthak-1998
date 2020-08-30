@@ -14,14 +14,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hey there :wave: 👋
+# Hey viewer :wave: 👋
 
+ <p align="center"> 
 
-<p align="center"> 
-  Visitor count<br> <br>
-  <img src="https://profile-counter.glitch.me/sarthak-1998/count.svg" />
+[![Sarthak's github stats](https://github-readme-stats.vercel.app/api?username=sarthak-1998&show_icons=true)](https://github.com/sarthak-1998)
+
 </p>
-
 
 
 <!-- Social -->
@@ -69,24 +68,27 @@ Here are some ideas to get you started:
 
 ## About me
 
-<p align="center"> 
 
-[![Sarthak's github stats](https://github-readme-stats.vercel.app/api?username=sarthak-1998&show_icons=true)](https://github.com/sarthak-1998)
 
-</p>
+Hi 👋 I am Sarthak Jain, a Computer Science Engineering undergraduate from GGSIPU Delhi, India. Coding and Marketing for products is not just a career path for me, but also a passion of mine. I like to make web-apps, games and new stuff. Love to contribute in open source & various communities. If you've made any project, I would definitely like to see it !! Recently, I've taken a keen interest in product management and data analysis.
 
-Hi 👋 I am Sarthak Jain, a Computer Science Engineering undergraduate (2016-2020) from GGSIPU Delhi, India. Coding and Marketing for products is not just a career path for me, but also a passion of mine. I like to make web-apps, games and new stuff. Love to contribute in open source & various communities. If you've made any project, I would definitely like to see it !! Recently, I've taken a keen interest in product management and data analysis.
+My specialities include : Product Management, Development, Testing, Business Intelligence, Data Analysis and Marketing. 
 
- 
+
 
 <p align="center"> 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sarthak-1998&repo=sarthak-1998.github.io&show_owner=true)](https://github.com/sarthak-1998/sarthak-1998.github.io/)
+<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sarthak-1998&repo=sarthak-1998.github.io&show_owner=true)](https://github.com/sarthak-1998/sarthak-1998.github.io/) -->
 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak-1998)](https://github.com/sarthak-1998)
 
+</p>
+
+<p align="center"> 
+  Visitor count<br> <br>
+  <img src="https://profile-counter.glitch.me/sarthak-1998/count.svg" />
 </p>
 
 
@@ -105,13 +107,12 @@ Hi 👋 I am Sarthak Jain, a Computer Science Engineering undergraduate (2016-20
 
 # Interactive Resume Website - **https://sarthakj.me**
 
-> Mobile responsive online portfolio showcasing my work experience, education, projects and achievements along with mailing service and personal payments page. 
+> Secure and responsive online portfolio showcasing my work experience, education, projects and achievements along with mailing service and personal payments page. 
  Alternate Link -   https://sarthak-1998.github.io/
 
 
 
-                                                
-📫 How to reach me: [Portal](https://sarthakj.me)
+                                            
 
 <p align = "center">
   

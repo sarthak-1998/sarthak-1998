@@ -95,12 +95,14 @@ My specialities include : Product Management, Development, Testing, Business Int
 ## Things I am passionate about
 
 - Product Management
-- Development
+- Development 👨‍💻
 - Open source :octocat:
+- Mentoring 
+- Communities
 
 ## Get in touch :coffee:
 
-- Your future buddy to discuss Android related things and tech in general on [Twitter](https://twitter.com/sarcastic_sark).
+- Your future buddy to discuss Product related things along with tech, business intelligence and mareketing in general on [Twitter](https://twitter.com/sarcastic_sark).
 - Your future employee on [LinkedIn](https://www.linkedin.com/in/sarthak-jain24apr98/).
 - And of course GitHub you're already on (Recursion).
 

@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-<a href="https://github.com/sarthak-1998/github-readme-activity-graph"><img alt="Sarthak Jain's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sarthak-1998&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
 
 
 <!-- Social -->
@@ -87,10 +87,8 @@ Here are some ideas to get you started:
 
 <br>
 
-<p align="center"> 
-  Visitor count<br> <br>
-  <img src="https://profile-counter.glitch.me/sarthak-1998/count.svg" />
-</p>
+<a href="https://github.com/sarthak-1998/github-readme-activity-graph"><img alt="Sarthak Jain's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sarthak-1998&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
 
 <br>
 

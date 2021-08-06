@@ -19,10 +19,15 @@ Here are some ideas to get you started:
 
 
 
- <p align="center"> 
+ <!-- <p align="center"> 
 
 [![Sarthak's github stats](https://github-readme-stats.vercel.app/api?username=sarthak-1998&show_icons=true)](https://github.com/sarthak-1998)
 
+</p> -->
+
+<p align="center"> 
+  Visitor count<br> <br>
+  <img src="https://profile-counter.glitch.me/sarthak-1998/count.svg" />
 </p>
 
 <br/>
@@ -89,6 +94,11 @@ Here are some ideas to get you started:
 
 <br>
 
+## 📊 My Github Stats
+
+  <br/>
+    <a href="https://github.com/sarthak-1998/github-readme-stats"><img alt="Sarthak Jain's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sarthak-1998&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
 <a href="https://github.com/sarthak-1998/github-readme-stats"><img alt="Sarthak Jain's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak-1998&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -133,12 +143,11 @@ My leisure time activites : Travelling ✈️, Rifle Shooting 🔫, Swimming �
 - Your future employee on [LinkedIn](https://www.linkedin.com/in/sarthak-jain24apr98/).
 - And of course GitHub you're already on (Recursion).
 
+<br>
+
 <p align="centre">
-
 <a href = "https://www.linkedin.com/in/sarthak-jain24apr98/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-
 <a href = "https://www.instagram.com/sarthak_jaintleman/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
 <a href = "mailto:dev@sarthakj.me?Subject=Regarding Github Profile"><img src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
 
 </p>

@@ -14,13 +14,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hey viewer :wave: 👋
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sarthak Jain</h1>
+
+
 
  <p align="center"> 
 
 [![Sarthak's github stats](https://github-readme-stats.vercel.app/api?username=sarthak-1998&show_icons=true)](https://github.com/sarthak-1998)
 
 </p>
+
+<br/>
+
+<a href="https://github.com/sarthak-1998/github-readme-activity-graph"><img alt="Sarthak Jain's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sarthak-1998&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 
 <!-- Social -->
@@ -66,15 +73,27 @@ Here are some ideas to get you started:
 </table>
 
 
+<p align="center">
+    <a href="https://github.com/sarthak-1998/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sarthak Jain's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthak-1998"/>
+    </a>
+</p>
+<br>
+
+
+# Hey fellow coder :wave: 👋
+
 ## About me
 
 
 
-Hi 👋 I am Sarthak Jain, a Computer Science Engineering undergraduate from GGSIPU Delhi, India. Coding and Marketing for products is not just a career path for me, but also a passion of mine. I like to make web-apps, games and new stuff. Love to contribute in open source & various communities. If you've made any project, I would definitely like to see it !! Recently, I've taken a keen interest in product management and data analysis.
+Hey user 👋 I'm Sarthak Jain, Associate Product Manager in Fintech 💲 space. Understanding coding and business aspect of products is not just a career path for me, but also a passion of mine. I like to build web-apps 🌐, games 🎮 and solve user problems 🧐 Really love to contribute in open source ❤️ and various communities of students & professionals. If you've made any cool projects, would really like to try it!! Recently, I've taken a keen interest in product management 💭 and data analytics 📈
 
-My specialities include : Product Management, Development, Testing, Business Intelligence, Data Analysis and Marketing. 
+My specialities include : Product Management, Development, Testing, Business Intelligence, Data Analysis and People skills.
 
+My leisure time activites : Travelling ✈️, Rifle Shooting 🔫, Swimming 🏊‍♂️, Standups 🤣 and Mentoring 👨‍🏫  
 
+<br>
 
 <p align="center"> 
 

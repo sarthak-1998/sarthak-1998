@@ -72,14 +72,26 @@ Here are some ideas to get you started:
 </tr>
 </table>
 
+<br>
 
 <p align="center">
     <a href="https://github.com/sarthak-1998/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sarthak Jain's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthak-1998"/>
     </a>
 </p>
+
 <br>
 
+<p align="center"> 
+  Visitor count<br> <br>
+  <img src="https://profile-counter.glitch.me/sarthak-1998/count.svg" />
+</p>
+
+<br>
+
+<a href="https://github.com/sarthak-1998/github-readme-stats"><img alt="Sarthak Jain's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak-1998&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 # Hey fellow coder :wave: 👋
 
@@ -101,14 +113,10 @@ My leisure time activites : Travelling ✈️, Rifle Shooting 🔫, Swimming �
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak-1998)](https://github.com/sarthak-1998)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak-1998)](https://github.com/sarthak-1998) -->
 
 </p>
 
-<p align="center"> 
-  Visitor count<br> <br>
-  <img src="https://profile-counter.glitch.me/sarthak-1998/count.svg" />
-</p>
 
 
 ## Things I am passionate about
@@ -124,6 +132,16 @@ My leisure time activites : Travelling ✈️, Rifle Shooting 🔫, Swimming �
 - Your future buddy to discuss Product related things along with tech, business intelligence and mareketing in general on [Twitter](https://twitter.com/sarcastic_sark).
 - Your future employee on [LinkedIn](https://www.linkedin.com/in/sarthak-jain24apr98/).
 - And of course GitHub you're already on (Recursion).
+
+<p align="centre">
+
+<a href = "https://www.linkedin.com/in/sarthak-jain24apr98/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+
+<a href = "https://www.instagram.com/sarthak_jaintleman/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+
+<a href = "mailto:dev@sarthakj.me?Subject=Regarding Github Profile"><img src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
+
+</p>
 
 
 # Interactive Resume Website - **https://sarthakj.me**
